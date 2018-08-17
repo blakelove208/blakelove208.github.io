@@ -20,7 +20,7 @@ class App extends Component {
         <div className="container">
           <Header />
           <SimpleMenu />
-          <h1 className="phonename">Blake Harris</h1>
+          <h1 className="phonename">Blake Love</h1>
           <SimpleBottomNavigation />
           <Route exact path="/" component={Projects}/>
           <Route path="/about" component={About}/>
