@@ -103,7 +103,7 @@ class ContactForm extends Component {
               id="number"
               label="Phone Number"
               value={this.state.number}
-              placeholder="303 333 3333"
+              placeholder="303 333 3335"
               onChange={this.handleChange('number')}
               type="text"
               className={classes.textField + " contactField"}
