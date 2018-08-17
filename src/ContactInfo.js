@@ -25,21 +25,21 @@ function ContactInfo(props) {
           <TextField
             label="Name"
             className="infoField"
-            value="Blake Love"
+            value="Blake Harris"
             margin="normal"
           />
 
           <TextField
             label="Phone Number"
             className="infoField"
-            value="720-534-2585"
+            value="303-618-5741"
             margin="normal"
           />
 
           <TextField
             label="Email"
             className="infoField"
-            value="blakelove208@gmail.com"
+            value="harrisblake85@gmail.com"
             margin="normal"
           />
         </form>
