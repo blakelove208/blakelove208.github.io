@@ -39,7 +39,7 @@ function ContactInfo(props) {
           <TextField
             label="Email"
             className="infoField"
-            value="harrisblake85@gmail.com"
+            value="blakelove208@gmail.com"
             margin="normal"
           />
         </form>
